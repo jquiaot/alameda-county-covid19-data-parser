@@ -1,0 +1,1 @@
+https://services3.arcgis.com/1iDJcsklY3l3KIjE/arcgis/rest/services/AC_dates/FeatureServer/0/query?where=1%3D1&outFields=Date,AC_CumulCases,AC_CumulDeaths,ObjectId&outSR=4326&f=json

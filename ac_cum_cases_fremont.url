@@ -1,0 +1,1 @@
+https://services3.arcgis.com/1iDJcsklY3l3KIjE/arcgis/rest/services/CumulCasesByPlaceAndZip/FeatureServer/0/query?where=1%3D1&outFields=Fremont,ObjectId,DtCreate&outSR=4326&f=json
